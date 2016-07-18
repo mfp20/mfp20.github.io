@@ -3,17 +3,17 @@ Welcome to my n+1 test for a decentralization-friendly, and integrity-protected 
 About Me
 ========
 
-See [README.md](https://github.com/mfp20/mfp20.github.io) for more info.
+See [README.md](https://github.com/mfp19/mfp19.github.io) for more info.
 
 About this Website/Blog/Repo
 ============================
 
-See [README.md](https://github.com/mfp20/mfp20.github.io) for more info.
+See [README.md](https://github.com/mfp19/mfp19.github.io) for more info.
 
 Distribution and hosting
 ------------------------
 
-See [README.md](https://github.com/mfp20/mfp20.github.io) for more info.
+See [README.md](https://github.com/mfp19/mfp19.github.io) for more info.
 
 (WiP) Integrity protection
 --------------------------
