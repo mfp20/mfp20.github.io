@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethereum is Doomed, long live Ethereum.
+title: Ethereum is Doomed.
 author: mfp20
 ---
 
@@ -28,24 +28,35 @@ bet despite the huge warning on my webpage. In the case I'm not in the position 
 actions) I would just move any asset out of that foundation and create a new one, documenting the whole thing. Better to pay a big lawyer firm to escrow the
 whole process than to allow a whiner to kill my baby in it's first months of life: "it's a beta, you've been warned, idiot!".
 
-Second, a way far solution could be an old Ancient Rome law about people returning valuables found in the streets. If you turn it back, you get 10% of its value from 
+Second, a fair solution could be an old Ancient Rome law about people returning valuables found in the streets. If you turn it back, you get 10% of its value from 
 the legittimate owner. After all, it wouldn't be the first time an hacker get paid for finding a bug. Actually, there have been plenty companies having
 for their core business ... to find bugs and vulnerabilities. He did it, he deserve it. And I would do this too: "I cracked you out and left 10% for you; 
 thanks for discovering that bug. Please let's meet so that I can personally deliver your win to the one that burned the hairs on my ass, and see if we can
 work togheter in the near futureò If now yours are burning instead, please just tell your lawyer to send us your bank account coordinates to transfer your win.
 If you want to go for an All-In... well... sue me, asshole". That's all.
 
+That money loss would be a new incarnation of "inflation".
+
+Long Live Ethereum
+==================
+
 About the long-term problem highlighted by Daniel Krawisz (linked above) ... I should read the code first but I prefer to give for good what Daniel wrote and 
 blindly comment his summary:
 
 > They created a situation in which bugs would be expected to arise in an environment in which bugs are legally exploitable. That is hacker heaven.
 
-Is he talking about the univers and the human perverse tendancy to not consider it an open system? Dear Daniel ... ehm ... did you notice that they are based in Switzerland 
+Is he talking about the universe and the human perverse tendancy to not consider it an open system? Dear Daniel ... ehm ... did you notice that they are based in Switzerland 
 and "The Attacker" is talking about "fully compliant with United States criminal and tort law"? 
 How can you say then that ... the bugs are legally exploitable? And things get even more complicate every time a "foundation" is involved because ... in theory ... it is a nonprofit entity. 
-Lawyers too could be mistaken or openly fraud. If they exist. Last but not the least, I would say that set up a lawsuit against them it might be like shooting the Red Cross.
+Lawyers too could be mistaken or openly fraud. If they exist: all I see is a pastebin where someone wrote "law firm". I did it too just now, I wrote "law firm". Twice. 
+Last but not the least, I would say that set up a lawsuit against them it might be like shooting the Red Cross.
 
-To be clear: Ethereum might be seriusly flawed; I can't say the opposite but ... alea jacta est. They have shown us all a direction.
+Legally speaking, that's an unprecedented accident that can be fixed adding a new clausole to the contract. There will be more accidents, and there will be new clausoles. 
+When the clausoles will be too many, the project will not fit its users any more and probably a new one will be already around.
+
+To be clear: Ethereum might be seriusly flawed; I can't say the opposite and honestly I don't care if they fail, but ... alea jacta est. 
+They have shown us all a direction; it's just the first public attempt of embedding valuable contents in the blockchain.
+
 I've been playing before calling bug&feature the same item. Now I've learned that I can do the same saying "torto" (en. tort) and "torta" (en. cake), 
 in italian. Sweet, thank you.
 

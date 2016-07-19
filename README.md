@@ -77,7 +77,7 @@ Not... for everyone (cfr. RFC3271).
 Recently, thanks to our reckless persistence - I don't wonna die, do you? - there has been some cosmetic changes,
 so in Italy cops are reccomending to teach kids to not use the internet (but on their website they write "to not reveal names and locations"),
 and EU passed their new almighty Privacy Red Tape 2.0 nicknamed "Privacy Shield": Yet Another Un-published Procedure To Hide Failures,
-perfectly compatible with the Freedom Act passed in US and the funky dog bumping on my brand new Asus bought in ASEAN.
+perfectly compatible with the Freedom Act passed in US and the funky privacy dog (ie: the app distributed with the phone) on my brand new Asus bought in ASEAN.
 Cross-continental Commercial compatibility fine adjustments.
 Worth nothing to us. It's a patch waiting for full rewrite.
 
