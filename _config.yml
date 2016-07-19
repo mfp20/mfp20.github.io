@@ -1,6 +1,7 @@
 # Site settings
 title: mfp20 - minority-reported only
 url: "http://mfp20.github.io"
+timezone: CET
 
 # Build settings
 # markdown: redcarpet
