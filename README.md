@@ -91,8 +91,13 @@ git-based software project. Thanks!
 License/Copyrights
 -------------------
 
-This text by mfp is licensed under a [Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International
-License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-inherited by the original author.
+On [mfp19](https://github.com/mfp19/mfp19.github.io) I've found
+
+> This text by mfp is licensed under a [Creative Commons
+> Attribution-NonCommercial-ShareAlike 4.0 International
+> License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> inherited by the original author.
+
+But at the time of opening this account I've found software licenses only, so I took GPLv3. Honestly, I don't give a fuck about those, 
+so ... feel free to think whatever you want. License is here just because it is a mandatory field in the subscription form.
 
